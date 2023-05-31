@@ -5,6 +5,8 @@ logs/*
 
 __pycache__/**
 
+cpp/gdnative_cpp/
+
 *.pyc
 
 *.d
