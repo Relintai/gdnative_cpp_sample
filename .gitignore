@@ -11,6 +11,8 @@ cpp/gdnative_cpp/
 
 *.d
 *.o
+*.os
+*.so
 *.meta
 game/.import/**
 game/.prop_tool_temp/**
