@@ -1,7 +1,5 @@
 #include "gdexample.h"
 
-using namespace godot;
-
 void GDExample::_register_methods() {
 	register_method("_process", &GDExample::_process);
 	register_property<GDExample, float>("amplitude", &GDExample::amplitude, 10.0);
